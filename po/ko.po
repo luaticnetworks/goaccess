@@ -27,7 +27,7 @@ msgstr ""
 
 #: src/labels.h:44
 msgid "Help"
-msgstr "도움"
+msgstr "도움말"
 
 #: src/labels.h:45
 msgid "Quit"
@@ -39,11 +39,11 @@ msgstr "전체"
 
 #: src/labels.h:49
 msgid "[x] ASC [ ] DESC"
-msgstr ""
+msgstr "[x] 오름차순 [ ] 내림차순"
 
 #: src/labels.h:50
 msgid "[ ] ASC [x] DESC"
-msgstr ""
+msgstr "[ ] 오름차순 [x] 내림차순"
 
 #: src/labels.h:53
 #, c-format
@@ -56,27 +56,27 @@ msgstr "GoAccess 닫기[q]"
 
 #: src/labels.h:55
 msgid "[?] Help [Enter] Exp. Panel"
-msgstr ""
+msgstr "[?] 도움말 [Enter] 상세 표시"
 
 #: src/labels.h:56
 msgid "Dashboard"
-msgstr "상황판"
+msgstr "대시보드"
 
 #: src/labels.h:57
 msgid "Dashboard - Overall Analyzed Requests"
-msgstr ""
+msgstr "대시보드 - 전체 분석 요청"
 
 #: src/labels.h:58
 msgid "Overall Analyzed Requests"
-msgstr ""
+msgstr "전체 분석 요청"
 
 #: src/labels.h:60 src/labels.h:81
 msgid "Tx. Amount"
-msgstr ""
+msgstr "데이터 전송량"
 
 #: src/labels.h:61
 msgid "Date/Time"
-msgstr ""
+msgstr "날짜/시간"
 
 #: src/labels.h:62
 msgid "Excl. IP Hits"
@@ -84,15 +84,15 @@ msgstr ""
 
 #: src/labels.h:63
 msgid "Failed Requests"
-msgstr ""
+msgstr "실패한 요청"
 
 #: src/labels.h:64
 msgid "Init. Proc. Time"
-msgstr ""
+msgstr "해석에 걸린 시간"
 
 #: src/labels.h:65
 msgid "Log Size"
-msgstr ""
+msgstr "로그 파일 크기"
 
 #: src/labels.h:66
 msgid "Log Source"
@@ -100,11 +100,11 @@ msgstr ""
 
 #: src/labels.h:67 src/labels.h:181
 msgid "Referrers"
-msgstr ""
+msgstr "리퍼러(참조)"
 
 #: src/labels.h:68
 msgid "Total Requests"
-msgstr ""
+msgstr "총 요청 수"
 
 #: src/labels.h:69
 msgid "Static Files"
@@ -176,11 +176,11 @@ msgstr ""
 
 #: src/labels.h:89
 msgid "City"
-msgstr ""
+msgstr "도시"
 
 #: src/labels.h:90
 msgid "Country"
-msgstr ""
+msgstr "국가"
 
 #: src/labels.h:91
 msgid "Hostname"
@@ -188,7 +188,7 @@ msgstr ""
 
 #: src/labels.h:92
 msgid "Data"
-msgstr ""
+msgstr "데이터"
 
 #: src/labels.h:94
 msgid "Hits/Visitors"
@@ -240,7 +240,7 @@ msgstr ""
 
 #: src/labels.h:128 src/labels.h:132
 msgid "Virtual Hosts"
-msgstr ""
+msgstr "가상 호스트"
 
 #: src/labels.h:130 src/labels.h:137 src/labels.h:144
 msgid "Data sorted by hits [, avgts, cumts, maxts]"
@@ -252,7 +252,7 @@ msgstr ""
 
 #: src/labels.h:139
 msgid "Remote User"
-msgstr ""
+msgstr "원격 사용자"
 
 #: src/labels.h:142
 msgid "The cache status of the object served"
@@ -260,7 +260,7 @@ msgstr ""
 
 #: src/labels.h:146
 msgid "Cache Status"
-msgstr ""
+msgstr "캐시 상태"
 
 #: src/labels.h:149
 msgid "Not Found URLs (404s)"
@@ -280,11 +280,11 @@ msgstr ""
 
 #: src/labels.h:160
 msgid "Hosts"
-msgstr ""
+msgstr "호스트"
 
 #: src/labels.h:163
 msgid "Operating Systems"
-msgstr ""
+msgstr "운영체제"
 
 #: src/labels.h:165
 msgid "Top Operating Systems sorted by hits [, avgts, cumts, maxts]"
@@ -292,11 +292,11 @@ msgstr ""
 
 #: src/labels.h:167
 msgid "OS"
-msgstr ""
+msgstr "OS"
 
 #: src/labels.h:170 src/labels.h:174
 msgid "Browsers"
-msgstr ""
+msgstr "브라우저"
 
 #: src/labels.h:172
 msgid "Top Browsers sorted by hits [, avgts, cumts, maxts]"
@@ -340,7 +340,7 @@ msgstr ""
 
 #: src/labels.h:205
 msgid "HTTP Status Codes"
-msgstr ""
+msgstr "HTTP 상태 코드"
 
 #: src/labels.h:207
 msgid "Top HTTP Status Codes sorted by hits [, avgts, cumts, maxts]"
@@ -348,7 +348,7 @@ msgstr ""
 
 #: src/labels.h:209
 msgid "Status Codes"
-msgstr ""
+msgstr "상태 코드"
 
 #: src/labels.h:213
 msgid "[ ] case sensitive"
@@ -368,7 +368,7 @@ msgstr ""
 
 #: src/labels.h:223
 msgid "Log Format Configuration"
-msgstr ""
+msgstr "로그 형식 구성"
 
 #: src/labels.h:225
 msgid "[SPACE] to toggle - [ENTER] to proceed - [q] to quit"
@@ -413,7 +413,7 @@ msgstr ""
 
 #: src/labels.h:255
 msgid "GoAccess Quick Help"
-msgstr ""
+msgstr "GoAccess 빠른 도움말"
 
 #: src/labels.h:257
 msgid "[UP/DOWN] to scroll - [q] to quit"
@@ -429,19 +429,19 @@ msgstr ""
 
 #: src/labels.h:267
 msgid "No date format was found on your conf file."
-msgstr ""
+msgstr "설정 파일 내에서 날짜 형식이 세팅되어 있지 않습니다."
 
 #: src/labels.h:269
 msgid "No log format was found on your conf file."
-msgstr ""
+msgstr "설정 파일 내에서 로그 형식이 세팅되어 있지 않습니다."
 
 #: src/labels.h:271
 msgid "No time format was found on your conf file."
-msgstr ""
+msgstr "설정 파일내에서 시각 형식이 세트 되어 있지 않습니다."
 
 #: src/labels.h:273
 msgid "No default config file found."
-msgstr ""
+msgstr "기본 설정 파일을 찾을 수 없습니다."
 
 #: src/labels.h:275
 msgid "You may specify one with"
