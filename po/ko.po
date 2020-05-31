@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: goaccess 1.4\n"
 "Report-Msgid-Bugs-To: hello@goaccess.io\n"
-"POT-Creation-Date: 2020-05-14 19:55-0500\n"
+"POT-Creation-Date: 2020-06-01 03:00-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Luatic <mint@luatic.co.kr>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -112,23 +112,23 @@ msgstr ""
 
 #: src/labels.h:70 src/labels.h:153
 msgid "Not Found"
-msgstr ""
+msgstr "찾을 수 없음"
 
 #: src/labels.h:71
 msgid "Requested Files"
-msgstr ""
+msgstr "요청된 파일"
 
 #: src/labels.h:72
 msgid "Unique Visitors"
-msgstr ""
+msgstr "순 방문자 수"
 
 #: src/labels.h:73
 msgid "Valid Requests"
-msgstr ""
+msgstr "유효 요청 수"
 
 #: src/labels.h:76
 msgid "Hits"
-msgstr ""
+msgstr "조회수"
 
 #: src/labels.h:77
 msgid "h%"
@@ -136,7 +136,7 @@ msgstr ""
 
 #: src/labels.h:78 src/labels.h:104
 msgid "Visitors"
-msgstr ""
+msgstr "방문자수"
 
 #: src/labels.h:79
 msgid "Vis."
@@ -184,7 +184,7 @@ msgstr "국가"
 
 #: src/labels.h:91
 msgid "Hostname"
-msgstr ""
+msgstr "호스트명"
 
 #: src/labels.h:92
 msgid "Data"
@@ -192,7 +192,7 @@ msgstr "데이터"
 
 #: src/labels.h:94
 msgid "Hits/Visitors"
-msgstr ""
+msgstr "조회수/방문자수"
 
 #: src/labels.h:98
 msgid "Unique visitors per day"
